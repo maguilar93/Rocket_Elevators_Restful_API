@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/mariaunix/.dotnet/store/|arch|/|tfm|",
+      "/home/mariaunix/.nuget/packages"
+    ]
+  }
+}
